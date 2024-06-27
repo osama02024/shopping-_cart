@@ -1,0 +1,41 @@
+[dir="rtl"] .products{
+    float: right;
+}
+[dir="rtl"] .container input {
+    margin-left: 0;
+    margin-right: 40px;
+
+}
+[dir="rtl"] .products-item-image img{
+    margin-right:0;
+    margin-left: 20px;
+}
+[dir="rtl"] .products-item-actions{
+    text-align: left;
+}
+[dir="rtl"] .products-item-actions button{
+    margin-left: 0;
+    margin-right: auto;
+
+}
+[dir="rtl"] .products-item-actions i{
+    margin-left:0;
+    margin-right:auto;
+}
+[dir="rtl"] #button-my-product{
+    margin-right: 0px;
+    margin-left: 40px;
+
+}
+[dir="rtl"] .filter-by-size{
+    float: right;
+}
+[dir="rtl"] #img_profile{
+    margin-right: 28vw;
+    margin-left: 0;
+}
+
+
+
+
+
